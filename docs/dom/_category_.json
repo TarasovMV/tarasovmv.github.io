@@ -1,0 +1,8 @@
+{
+  "label": "DOM",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Работа с DOM'ом и базовые принципы работы браузера"
+  }
+}
